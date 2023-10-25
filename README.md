@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samir Comas Moral</h1>
 <h3 align="center">Junior Developer, always eager to learn and collaborate as a team. My positive energy blends with my constant craving for new knowledge, driving me to create websites and apps.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sacom14" alt="sacom14" /></a> </p>
-
 - 📫 How to reach me:
   **email: scomasmoral@gmail.com
   phone: +34 660020416**
