@@ -9,7 +9,7 @@
 - 📫 How to reach me:
   <ul>
   <li>
-    email: scomasmoral@gmail.com
+    email: sacomoral@gmail.com
   </li>
   <li>
     phone: +34 660020416
