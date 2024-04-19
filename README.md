@@ -4,7 +4,6 @@
 
 - 👯 I’m looking to collaborate on coding projects related to Angular, C#, or .NET as I continue to learn and build my skills.
 - 🤝 I’m looking for help with assistance and guidance in my learning journey with Angular and C# with .NET. Any tips, resources, or advice from experienced developers are welcome
-- 🌱 I’m currently learning Angular and C# with .NET
 
 - 📫 How to reach me:
   <ul>
