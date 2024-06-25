@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacom14&label=Profile%20views&color=0e75b6&style=flat" alt="sacom14" /> </p>
 
-- 👯 I’m looking to collaborate on coding projects related to Angular, C#, or .NET as I continue to learn and build my skills.
+- 👯 I’m looking to collaborate on coding projects related to Angular, Ionic C#, or .NET as I continue to learn and build my skills.
 - 🤝 I’m looking for help with assistance and guidance in my learning journey with Angular and C# with .NET. Any tips, resources, or advice from experienced developers are welcome
 
 - 📫 How to reach me:
@@ -19,7 +19,7 @@
 
 <div> <a href="https://www.linkedin.com/in/samircomas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/sacom14" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:email: scomasmoral@gmail.com phone: +34 660020416"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:email: sacomoral@gmail.com phone: +34 660020416"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
