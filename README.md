@@ -18,7 +18,7 @@ Soy un desarrollador junior con experiencia en la creación de aplicaciones web 
 💡 **Proyectos recientes**  
 - 📌 **ERP-web con gestor documental en Angular y PrimeNG**.  
 - 📱 **Aplicación móvil en Ionic con autenticación OAuth (Google y Apple ID)**.  
-- 🎨 **Aplicación full-stack de gestión de alumnados con Angular17, NodeJs y MySql **.  
+- 🎨 **Aplicación full-stack de gestión de alumnados con Angular17, NodeJs y MySql**.  
 - 📊 **Tablas dinámicas en PrimeNG con visibilidad de columnas personalizable**.  
 
 📌 **¡Siempre aprendiendo y explorando nuevas tecnologías!** 🚀
