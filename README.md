@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Samir Comas Moral</h1>
-<h3 align="center">🚀 **Desarrollador Frontend | Angular | Ionic | Next.Js | WordPress | Node.Js | SQL | MySQL**  </h3>
+<h3 align="center">🚀 **Desarrollador Frontend | Angular | Ionic | Next.Js | WordPress | Node.Js | SQL | MySql**  </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacom14&label=Profile%20views&color=0e75b6&style=flat" alt="sacom14" /> </p>
 
 
@@ -18,7 +18,7 @@ Soy un desarrollador junior con experiencia en la creación de aplicaciones web 
 💡 **Proyectos recientes**  
 - 📌 **ERP-web con gestor documental en Angular y PrimeNG**.  
 - 📱 **Aplicación móvil en Ionic con autenticación OAuth (Google y Apple ID)**.  
-- 🎨 **Efecto de comparación "antes y después" en Gutenberg con CSS puro**.  
+- 🎨 **Aplicación full-stack de gestión de alumnados con Angular17, NodeJs y MySql **.  
 - 📊 **Tablas dinámicas en PrimeNG con visibilidad de columnas personalizable**.  
 
 📌 **¡Siempre aprendiendo y explorando nuevas tecnologías!** 🚀
