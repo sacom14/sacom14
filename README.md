@@ -2,9 +2,33 @@
 <h3 align="center">Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sacom14&label=Profile%20views&color=0e75b6&style=flat" alt="sacom14" /> </p>
 
-- 👯 I’m looking to collaborate on coding projects related to Angular, Ionic C#, or .NET as I continue to learn and build my skills.
-- 🤝 I’m looking for help with assistance and guidance in my learning journey with Angular and C# with .NET. Any tips, resources, or advice from experienced developers are welcome
+# ¡Hola! 👋 Soy [Tu Nombre]  
 
+🚀 **Desarrollador Frontend | Angular | Node.js | C# | .NET**  
+
+📌 **Sobre mí**  
+Soy un desarrollador junior con experiencia en la creación de aplicaciones web y móviles. Me especializo en **Angular 17+** para el frontend, utilizando **PrimeNG y PrimeFlex**. Para el backend, trabajo con **Node.js, C# y .NET**, siguiendo la arquitectura **MVC**. También manejo bases de datos relacionales como **MySQL y SQL Server**, y tengo planes de expandirme a **MongoDB**.  
+
+🌎 **Experiencia y habilidades**  
+- Desarrollo frontend con **Angular 17+**, **PrimeNG**, **PrimeFlex** y **Ionic 17**.  
+- Backend con **Node.js (NestJS), C# (.NET), Java (Spring Boot, WebFlux)**.  
+- Gestión de bases de datos SQL (**MySQL, SQL Server**) y exploración de NoSQL (**MongoDB**).  
+- Desarrollo de temas y personalización en **WordPress**, incluyendo **Gutenberg y Elementor**.  
+- Creación de componentes reutilizables en **Next.js 14 con Shadcn**.  
+- Autenticación con **OAuth (Google y Apple ID)** en Ionic y Angular.  
+
+💡 **Proyectos recientes**  
+- 📌 **ERP-web con gestor documental en Angular y PrimeNG**.  
+- 📱 **Aplicación móvil en Ionic con autenticación OAuth (Google y Apple ID)**.  
+- 🎨 **Efecto de comparación "antes y después" en Gutenberg con CSS puro**.  
+- 📊 **Tablas dinámicas en PrimeNG con visibilidad de columnas personalizable**.  
+
+📫 **Contáctame**  
+💼 [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
+📧 [Correo electrónico](mailto:tuemail@example.com)  
+🚀 [Portafolio](https://tuportafolio.com)  
+
+📌 **¡Siempre aprendiendo y explorando nuevas tecnologías!** 🚀
 - 📫 How to reach me:
   <ul>
   <li>
