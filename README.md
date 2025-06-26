@@ -28,9 +28,6 @@ Soy un desarrollador junior con experiencia en la creación de aplicaciones web 
   <li>
     Email: sacomoral@gmail.com
   </li>
-  <li>
-    Teléfono: +34 660020416
-  </li>
   </ul>
 
 <a href="https://samircomas.vercel.app/" target="_blank">**👨‍💻 Mi portfolio**</a>
