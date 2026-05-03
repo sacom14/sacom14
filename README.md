@@ -1,67 +1,115 @@
 <h1 align="center">¡Hola! 👋 Soy Samir Comas Moral</h1>
-<h3 align="center">🚀 **Desarrollador Frontend | Angular | Ionic | Next.Js | WordPress | Node.Js | SQL | MySql**  </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sacom14&label=Profile%20views&color=0e75b6&style=flat" alt="sacom14" /> </p>
+<h3 align="center">Software Developer Full Stack · Angular · NestJS · Python · IA aplicada</h3>
 
-
-
-📌 **Sobre mí**  
-Soy un desarrollador junior con experiencia en la creación de aplicaciones web y móviles. Me especializo en **Angular 17+** para el frontend, utilizando **PrimeNG y PrimeFlex**. Aunque también uso **Next.JS**. Para el backend, trabajo con **Node.js, C# y .NET**, siguiendo la arquitectura **MVC**. También manejo bases de datos relacionales como **MySQL y SQL Server**, y tengo planes de expandirme un poco en **Python**.  
-
-🌎 **Experiencia y habilidades**  
-- Desarrollo frontend con **Angular 17+**, **PrimeNG**, **PrimeFlex** y **Ionic 17**.  
-- Backend con **Node.js (NestJS), C# (.NET)**.  
-- Gestión de bases de datos SQL (**MySQL, SQL Server**) y exploración de NoSQL (**MongoDB**).  
-- Desarrollo de temas y personalización en **WordPress**, incluyendo **Gutenberg y Elementor** junstamente con **PHP**.  
-- Creación de componentes reutilizables en **Next.js 14 con Shadcn**.  
-- Autenticación con **OAuth (Google y Apple ID)** en Ionic y Angular.  
-
-💡 **Proyectos recientes**  
-- 📌 **ERP-web con gestor documental en Angular y PrimeNG**.  
-- 📱 **Aplicación móvil en Ionic con autenticación OAuth (Google y Apple ID)**.  
-- 🎨 **Aplicación full-stack de gestión de alumnados con Angular17, NodeJs y MySql**.  
-- 📊 **Tablas dinámicas en PrimeNG con visibilidad de columnas personalizable**.  
-
-📌 **¡Siempre aprendiendo y explorando nuevas tecnologías!** 🚀
-
-- 📫 **Contáctame** :
-  <ul>
-  <li>
-    Email: sacomoral@gmail.com
-  </li>
-  </ul>
-
-<a href="https://samircomas.vercel.app/" target="_blank">**👨‍💻 Mi portfolio**</a>
-
-<div> <a href="https://www.linkedin.com/in/samircomas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/sacom14" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:email: sacomoral@gmail.com phone: +34 660020416"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-<h3 align="left">Tecnologías:</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/angular.svg" alt="Angular" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <a href="https://samircomas.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-samircomas.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samircomas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sacomoral@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sacom14&label=Profile%20views&color=0e75b6&style=flat" alt="sacom14"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Estadísticas</h3>
-<div align="center">
-<a href="https://github.com/sacom14">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sacom14&theme=2077" height="180em" />
+---
 
-  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sacom14&theme=algolia" height="180em" />
+## 🧭 Sobre mí
+
+Software Developer Full Stack con **3 años de experiencia** construyendo productos web y móviles en producción.
+Actualmente enfocado en **desarrollo de software con IA**: arquitecturas basadas en agentes/LLMs, integración de Claude en flujos de negocio reales y optimización de la productividad de desarrollo con prompts y herramientas de IA.
+
+- 📍 Barcelona, España — abierto a **remoto**
+- 💼 Trabajando en **Grupo Trébol Energía** (ERP interno + agentes IA)
+- 🌱 Profundizando en **arquitecturas multi-agente, LLMOps y diseño de prompts**
+- 🎯 Busco empresas que estén apostando seriamente por IA en su producto
+
+---
+
+## 🛠️ Stack principal
+
+**Frontend** — Angular 17+ (standalone, Signals, RxJS) · TypeScript · SCSS · Ionic · Next.js
+**Backend** — NestJS · Node.js · Python (FastAPI / scripting + IA) · APIs REST
+**Datos** — MySQL · PostgreSQL / Supabase · MongoDB
+**IA / LLMs** — Claude (Anthropic) · arquitecturas de agentes y subagentes · diseño de prompts · gestión de contexto y tokens
+**Tooling** — Git / GitFlow · Docker · Replit · Figma · VSCode
+**Metodología** — SCRUM · Kanban · Clean Code · Modularidad por capas
+
+---
+
+## 🚀 Proyectos destacados
+
+- 🏢 **ERP-web interno (Grupo Trébol Energía)** — Angular + NestJS + agentes IA integrados en flujos de negocio.
+- 📱 **CatGrafia** — App móvil Ionic con autenticación OAuth (Google / Apple), backend Java + MongoDB. **+5.000 descargas**.
+- 🎓 **Plataforma de gestión de alumnados** — full-stack Angular 17 + Node.js + MySQL.
+- 🧩 **Componentes reutilizables PrimeNG** — tablas dinámicas con visibilidad de columnas configurable.
+- 🌐 **Webs corporativas (Colillas Branding)** — WordPress (Elementor / Divi / Gutenberg) + Next.js con Shadcn.
+
+> Más en mi portfolio: **[samircomas.com](https://samircomas.com)**
+
+---
+
+## 🧰 Tecnologías
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### IA / LLMs
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Tooling
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sacom14&theme=tokyonight" alt="Profile Details"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sacom14&theme=tokyonight" height="180em" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sacom14&theme=tokyonight" height="180em" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sacom14&theme=tokyonight" height="180em" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sacom14&theme=tokyonight&utcOffset=1" height="180em" alt="Productive Time"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sacom14&theme=tokyonight&hide_border=true" alt="Streak"/>
+</div>
+
+---
+
+## 📫 Contáctame
+
+- ✉️ **Email**: sacomoral@gmail.com
+- 🌐 **Portfolio**: [samircomas.com](https://samircomas.com)
+- 💼 **LinkedIn**: [linkedin.com/in/samircomas](https://www.linkedin.com/in/samircomas/)
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
